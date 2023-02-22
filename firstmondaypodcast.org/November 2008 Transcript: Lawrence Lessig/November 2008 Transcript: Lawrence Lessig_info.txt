@@ -1,0 +1,255 @@
+November 2008 Transcript: Lawrence Lessig
+
+Lawrence: This is Lawrence Lessig and you're listening to First Monday Podcast.
+
+[Musical Introduction]
+
+Lawrence: So you’ve got somebody who produces a video, then you have a response video, and your response to the response, and back and forth and when you look at this you recognize that we have created you know, in some sense this new form of communicating, which is not broadcasting, this is communities talking to communities and this is creative and powerful and valuable and ought to be encouraged.
+
+Joy: In that spirit, we'd like to have an open conversation about his new book Remix: Making art and commerce thrive in the hybrid economy. Welcome to First Monday Podcast, I'm Joy Austria
+
+AJ: And I'm AJ Hannah. So what do you say when you get your fifteen minutes of interview time with one of your intellectual heroes?
+
+Joy: I don't know and it was totally intimidating and that was the reaction I gave most of my friends.
+
+AJ: Well with something as impressive as Creative Commons under your belt it's gonna be like that. I mean, here's a person who's taken copyright reform out of the boardrooms and put working solutions into the hands of everyday people.
+
+Joy: So where do you go after that? Lawrence Lessig answers that question in his new book.
+
+Lawrence: I wanted to write this book to do three things. So one thing was to celebrate amateur culture and remix and celebrate it not just because I think it's better than Hollywood culture, I don't, for a professional voucher I don't, but celebrate it because I think it's important that culture have this connection, is democratic in exactly this way. And to get people to recognize the historical point that you know we're actually going back to a culture that was the culture of human history from the beginning of time just this one blip, this twentieth century blip which was different and you know there's no reason why the twentieth century should define the nature of culture for all time, let's you know see which works better, so that's one idea.
+The second idea is also to celebrate this new form of business which is the second half of the book which I call the “hybrid” which you think about commercial entities that are trying to leverage value out of sharing economies and the sharing economies like you know Wikipedia is a sharing economy which is not about money it's about sharing. But you have commercial entities that are now building sharing economies so they can leverage value out of it. So Flickr, photo sharing site, was based on sharing from the very beginning, people licensed their work to be shared, but then Yahoo buys it to try to build value out of that community. Yelp does the same thing. Increasingly, every interesting Internet business is a hybrid business and what this shows first is there's an enormous value to be produced here and second we've got to be sensitive to the norms that are going to govern this hybrid market, so that's another thing to celebrate and another think to talk about.
+
+The third thing I wanted to motivate with this book was just you know this Jack Valenti-like concern that we have a generation of criminals who self-consciously think of themselves as criminals and that's a real problem. Valenti and I agree about that. His solution of course is different from mine, his solution is to find an ever more affective way to wage war against the enemy. My solution is we've got to sue for peace. We've got to restructure the law in such a what's normal, expected behavior of people using digital technologies so it's not violating the law and we've got to find a way to compensate people you know give the benefit of the copyright system to the people whose work is shared non-commercially so that we have money getting back to artists.
+
+AJ: Human culture hasn't always been this way. In your book's introduction you reference the art of storytelling as remix. Each generation, each storyteller had the chance to add or reshape the story to their understanding or their times. When you look at great works of art from previous centuries, they had the chance to percolate into the public consciousness and into culture, into art.
+
+How can the next great work of art or masterpiece achieve such recognition or importance in the twenty-first century if it's immediately broken down into its parts, stripped of its original identity?
+
+Lawrence: I think that the desire to remix something is parasitic upon its recognition and popularity. So, you know, there’s a stage at which it’s not really interesting to do anything with it because nobody knows it, but once it becomes an icon, a cultural icon then you want to pull on it, use it, because you’re getting some of its meaning in what you’re trying to create.
+
+So I don’t think there’s a, you know, any reason to expect that everything gets decimated from the very beginning. And again, there’s an ecology here of creativity, and there’s nothing, there’s no reason to expect that having more creative remix is going to destroy the other kind of ecology.
+
+The activity of remix has existed since humans were born, right? Culture has always been remixed, culture, the only difference now is that people can sit down with hundred dollar technologies and make and share the remix with thousands of other people, right, so you can create and share. Whereas before you could just remix, you could just retell a story, or use a character from a movie in a story you’re telling about your aunt or something like that. So, there’s nothing radically new in the remix activity, there’s just something radical and new in the opportunity to share what you’re creating.
+
+Joy: I can't help but think that this is a luxury enjoyed by people in developed nations and that there are those who fall within the digital divide that aren't able to participate in this new development of culture and communication. Is remix deepening the split between the haves and have nots and are we creating a greater chasm in the digital divide?
+
+Lawrence: If you think about people in Brazil and you said the rules of the world were that the only way you get access to resources and power is if you can write a fifteen hundred word essay, you basically have said to many of those people, you know, you’re just cut off because you’re not gonna have the educational training and the time to develop this kind of skill.
+
+Or if you said the only way you can produce music is if you learn how to play a guitar, you’ve taken a whole bunch of those people and just thrown them off, because it takes years to learn how to play a guitar, right? But when you say that you can begin to create and express using music and images and sound, using digital technologies, sure, there’s an issue about whether they have the machines that they can play with, but if they have machines, the barrier to becoming you know, literate, is much much lower, and the opportunity to create and share on the basis of that is much much greater.
+
+So then the question is about getting access to the basic technology, to the machine. And if you look in Brazil there has been an explosion in business forms that facilitate access to these technologies in extremely cheap ways. There’s these things called LAN clubs, local area network clubs, that are businesses, and for almost nothing you know, something like a dime an hour or something, you get in there and you can sit down at your machine, at your computer and be on the Internet, and do your remix, do your creativity whatever, because these communities have identified this as an extraordinarily important part of the community. So, I think that what this technology and form of expression is going to do is explode the range of people who can participate, lower the digital divide, relative to the you know, educational and cultural divide that defined the twentieth century.
+
+AJ: So after going through the first part of your book and reading through some of the content of your website, do you think remixing is a humbling of popular culture? Is that an aspect of remixing?
+
+Lawrence: That’s a great question, I never thought of it like that. I think that there is something humbling about it in a sense that to do it well, you have to understand an extraordinary amount about the material you’re working with and when you just sit down and you know write another ballad about you know love in the twenties you don’t have that same constraint. So, to do it well requires a respect and an understanding of the artists whose work you’re building on and I think anytime one’s forced into that discipline that’s humbling.
+
+Joy: Is there anything that we didn't ask you that you wish we had?
+
+Lawrence: I like to keep secrets so I'm glad you didn't ask something you didn't ask.
+
+In some sense this new form of communicating, which is not broadcasting, this is communities talking to communities and this is creative and powerful and valuable and ought to be encouraged.
+
+Joy: One of the disadvantages of what we do in podcasting is summed up in the old addage that hindsight is 20/20... there's always something more to ask and a better way to phrase a question.
+
+AJ: But today's technology enables us to enter into an extended discussion. This episode opened with Lawrence mentioning communities responding to communities, so we'd like to further this discussion, put in our two cents on this topic, and the pass the microphone back to Lawrence, and to you our listeners as well.
+
+Joy: These are difficult, intertwined issues, and Lessig mentions a study by economist Scott Page stating, “success also depends upon the diversity of the people solving the problem. What's needed is... diversity in experience and worldviews, so as to help a project fill in the blind spots inherent in any particular view.”
+
+AJ: Joy and I sat down and discussed what ideas worked and didn't work in the book and the interview.
+
+AJ: He makes a persuasive argument where he talks about civil rights, and he says, here was a push by the government at large to criminalize racism and segregation, which is in many ways, saying well we need to decriminalize remixing.
+Now I have personal issues with remixing and I have some personal issues with some of his examples because he chooses a lot of people who obviously very pro remix and he doesn't offer any...I didn't find many examples in the book of where he offers well, here's a negative side. I mean I think it would've actually made his arguments more persuasive if he said, “here's some caveats about these types of issues”.
+
+Repeatedly over and over he says, “well I'm just gonna wide this with a wide brush for the sake of my argument,” you know it's extensively footnoted but at the same time, I found myself being like really hungry for an example and he's like meh... here's a wide brush... we're just gonna go with this assumption.
+
+Joy: So you don't think he did a good job of giving both sides of his argument?
+
+AJ: I think he should have put some signposts up saying these are issues that are gonna raise their heads. Occasionally at the end he does that when he talks about economics but he talks about this idea of hybrid economy, but then he never goes back to saying, these are the caveats that are going to come up with copyright reform.
+
+Well and then again there's the issue that came out in the interview, where he suggests that, people have specialized jobs. When we asked him about people not having either the intellectual capital or the financial capital to actually affect reform and was he addressing citizens or lawyers, but then his examples end up being kind of backhanded compliments.
+
+Lawrence: No, I don’t, I mean I think everybody has different things that they can do. I just think that, you know, just as if there were an epidemic that broke out across the city, you know, doctors would be the natural people to be called in to deal with it first. Obviously everybody could help, some people could clean bedpans, some people could build facilities, but doctors are the first.
+
+The natural people to first think about this issue are people who are trained to try to work out the relationship between power and reason and that’s what we do. Now, I don’t think we’re virtuous because of that, I don’t think we’re better citizens because of that, any more than I think somebody who’s good at shooting guns is necessarily a better person because of that. But I do think it’s a particular skill, it’s a kind of training, and that’s what’s needed here.(1)
+
+AJ: It made me feel awkward with the response. It is presenting it from a view of class. And this isn't the only thing that is presented from a view of class. There's a distinct separation between the have's and the have not's, and once again he brings it up in the interview where he says:
+
+Lawrence: By the twenty-first century if you're sixteen years old and you can't make a movie, there's something wrong with you, right, there's something deeply culturally limiting about you that you haven't ever done that.
+
+AJ: It's not normal for a kid to not have access to these things and to do video editing or to do remixing and then he backtracks and says, “well not everyone is going to do it...” Which is it?
+
+I firmly believe in re-write culture, absolutely, it's human interaction, it's storytelling at its base. We're adding onto the story, we're changing things, we're creating our own things - admirable and fantastic - I do it myself. Everyone is creative in their own way and in their own field - at least I like to believe so.
+
+But, and I had a point here, I think it does a great disservice to the people who are without to marginalize them, to say that they are missing out on something because they do not have access, they do not have finances, they do not have the ability to participate in this.
+
+What happens to, and and I find it kind of surprising that sections of American culture are just being kinda brushed off. I mean there's Mormon's that don't have TV's in their houses, they don't have computers, this is the the Amish. This is not something they want to participate in ... does this make them less?
+
+He says that not everyone is going to participate in this but then to add the comment that you know a fifteen year old who hasn't done video editing or tried to make their own movie is abnormal is kind of a difficult statement for me. What is it really that he wants to say there, there's a conflict between those two opposites.
+
+Joy: OK, in reference to the discussion about the digital divide, I agree. There isn't enough of an acknowledgment about the digital divide. What I'm having a hard time understanding, from everything from the answers in his interview, to the book to other people that we've interviewed from past episodes, is first of all the acknowledgment that the digital divide is a problem. And I don't have any facts or figures to back that up right now and I'm probably going to get slammed on that statement, but just a gut feeling there are people in South America, there are people certainly in India, China...
+
+AJ: Chicago...
+
+Joy: Chicago, Appalachia, Africa, even parts of the Philippines...
+
+AJ: Here, let me justify your statement. Go up to anybody on the street and ask them what the digital divide is.
+
+Joy: There's certainly efforts out there, One Laptop Per Child, that are trying to address some of these issues, I think part of the digital divide issue, the most important part for me is A) you have to lay down an infrastructure and B) you have to be able after the infrastructure is there - i.e. the ability to access computers, to have computers and be able to use them - then you have to begin to teach information literacy.
+
+AJ: Agreed.
+
+Joy: It's hard enough to do it with college students in developed nations. How much more are you gonna, is it gonna take to get them up to speed with basic computer literacy, turning it on, using word docs, but having them to be able to evaluate websites, podcasts, and how to navigate you know Google searching and all of that, that's one thing...and it kinda feeds into this idea that Lawrence brought up which was should all people participate in remix?
+
+I think the context of that answer was given in terms of we were talking about elderly people. I'm thinking about it more in terms of cultural. You know we're still debating whether or not we should go into like you know pygmy areas of South America and Africa and should we civilize these people. I mean I'm probably using very antiquated and offensive terms but... should we go in there have them be more Westernized?
+
+If remix is the evolution of human communication, the next step in human communication, there is going to be a large block of the six billion people that live on this planet that are not going to evolve with it.
+
+AJ: And like I said before, if language is a virus, as William [S.] Burroughs claims, then remix could end up being the plague.
+
+Joy: This is something that should seriously, seriously be considered, because it is a confusing message. If we're saying not all people have to participate then we're cutting off a whole group of people.
+
+AJ: It's not just that not all people should participate, he's claiming that all people can. To quote the book on page eighty-three he says, “Digital technologies have now removed that economic censor. The ways and reach of speech are greater.” Ok I don't disagree with that. “More people can use a wider set of tools to express ideas and emotions differently, more can and so more will at least until the law effectively blocks it.”
+
+My problem is with the first statement. “Digital technologies have now removed that economic censor.” They have not. They have lowered the door charge, but I really challenge him to prove to me that it's been removed.
+
+AJ: Do you think One Laptop Per Child do you think that machine has the power to actually edit audio, or edit video?
+
+Joy: Wait... but it gives me access to the Internet...
+
+AJ: Does it...?
+
+Joy: Wait wait wait... I'm gonna play devil's advocate...
+
+If I have One Laptop Per Child. I get that laptop, I have access to the Internet. I can do Audacity. There are students at Loyola University Chicago, communication students, radio students, that lab that audio lab uses Audacity. A lot of students, they have access to Pro Tools and Sound Forge and all those great high end audio producing tools, but a lot of them use Audacity, because if they can't get into the lab or someone else is using the program, you gotta edit somehow. It teaches enough basic audio that they can.. once they get into a real studio they have the basic skills.
+
+AJ: Yeah, I think you've kinda veered from my point. My point is that this technology that's supposedly being put in the hands of these people is not capable of doing what he thinks it's capable of doing.
+
+Joy: How do you know that? You're making an assumption aren't you?
+
+AJ: I've played with that One Laptop Per Child when we were at that communications meeting...
+
+Joy: ...and so did I...
+
+AJ: There's not enough... I absolutely know from working with audio software, from producing this podcast, from recording my own music that those kids are not going to be able to go ahead. First of all the Internet connection was spotty, and that's with you know, wireless in a hotel which has high saturation of signal.
+
+Linux, as it stands now, regardless of the release of the Ubuntu Studio which is a free Linux version geared towards music creation, still has steep system requirements, meaning that the computer has to have enough muscle power, processor, memory, and operating system to actually do the creation and handle whatever you put into it.
+
+Which comes to another thing how are these kids getting onto the Internet in the middle of a continent or country that doesn't have the infrastructure or is out in the middle of a corn field where they can probably barely get a cell signal, if at all? Much less have the financial funds to go ahead and get the cell signal 'cause I can't afford to get wireless Internet on a cellular phone, supposedly with the station I'm at in my life, in my career. How am I supposed to expect somebody who has less financial resources than I have to be able to afford this? Much less want to allocate limited funds to having something like that.... I mean I could keep going.
+
+And once again I agree completely with the digital divide thing and this leads me to my other point. I'm kind of saddened that at no point, and you'd brought this up already, does he advocate education of literacy - media literacy, copyright literacy, licensing, information literacy. All these things are giving the tools to future generations to know what the current status is and then to become educated citizens and go forward. Why is he not... I mean... I would.... I shouldn't blame him, but I would say I think a powerful addition to this book would be to start promoting different kinds of literacy.
+
+Joy: I really, really, really believe in this idea of Maslow's Hierarchy of Needs. I think that you're seeing the same thing with the digital divide, digital evolution.
+
+Bring it back to Maslow who says you have to fulfill basic needs first before you start thinking on higher philosophical planes. You can't think about the meaning of life, you can't think about religion and God if you're hungry, if you're sleep deprived and you don't have shelter.
+
+Likewise, you can't remix, you can't think about these legal issues, if you don't have a computer, if you don't have Internet, stable Internet access or a fast enough bandwidth to be able to do this stuff, and you certainly can't do this if you don't have the information literacy.
+
+AJ: ...or if you have the time to actually devote to these things...
+
+Joy: Right because if you're in Darfur I think you're more concerned with surviving than you are with remixing uhm Spike Jones with Leroy Anderson...
+
+If human communication is evolving...if you've got a human population that's evolving in the way they speak to each other, in the ways in which they record history, in the ways in which they perceive history, themselves, their generations, if this is what's going on and you're gonna cut off part of the population because they can't participate in this?
+
+AJ: It's turning into another Tower of Babel if people can't communicate with each other; you're gonna have different languages between the haves and have-nots.
+
+Joy: It's essentially Pre-Vatican II. Mass was done in Latin my parents did not understand what the hell they were saying... but they said it anyway. One of the reasons in Vatican II they decided to say mass in plain English or in the native language was that so people could understand, to be able to tap into and connect religiously, spiritually to what was being done in mass.
+
+I'm just using the example of language where language was a way was a way of preventing people... common people from participating in something greater, in this case spirituality. So in this case of remix, if you have a group of people that can't participate in it, then they're not participating in the greater themes or experiences of what it means to be human, or even how to perceive us as human beings.
+
+AJ: I agree completely, and that's why it really kinda bothered me with his comment about the kid. I mean and that leads to my whole issue with his comment that, “By the twenty-first century if you're sixteen years old and you can't make a movie, there's something wrong with you, right, there's something deeply culturally limiting about you that you haven't ever done that.” I agree, it's culturally limiting, but by saying this, it's like he's saying let's reinforce poverty or lack of access as something abnormal.
+
+Joy: Mmm...okay. You could look at it that way... on the flip side you could also look at it as maybe a call to arms. If by saying there's something culturally limiting and something basically abnormal with a sixteen year old or.. that can't do remix and basically saying you know, you're poor or whatnot... maybe then it'll make, hopefully it will make other people think and be like, yeah... there's people that can't access this stuff... what are we gonna do about it?
+
+AJ: But again, you know here are all the big thinkers and they're acting like the digital divide doesn't even exist in their own country.
+
+When I sit down and play guitar I'm not looking at it from an economy. It's not a me-economy or a thee-economy.
+It's something for my soul.
+
+Joy: What worked and what didn't work about the book? Now he wanted to accomplish three things remember... did he accomplish them?
+
+AJ: The one thing for me that he didn't accomplish was the education thing, so I'll just cut that in. I think I think he dropped the ball there.
+
+Joy: The first point in his book is celebrating amateur culture and I thought he did that very well I found myself being like, “Yeah this is something we should celebrate.”
+
+And Micheal Newman makes that exact point in his article “Ze Frank and the Poetics of Web Videos“. The beauty of Web 2.0 is that we have this ability for a bunch of amateur people to create movies and music and be able to distribute it in such a wide fashion. Whether they do it well or not...whatever. But they're able to do it and they're able to derive a sense of pride and a sense of self and accomplishment from it and that's great.
+
+The second idea was to celebrate this new form of business which he calls “hybrid” which is highlighted in the second half of the book. And I'll have to agree, I'm just really still confused.
+
+AJ: I think I'm more confused about what his actual viewpoint is. What is his viewpoint?
+
+Lawrence: So I don't think of myself as being against greed, that would be like being against breathing, right, it is just built into our character.
+
+AJ: In the interview is seems like he's saying, “Greed is a-okay” and here he seems to be trying to balance the idea of is it greed or entrepreneurship?
+
+Joy: Mmm...yeah.
+
+AJ: So if the community views it as greed then it's gonna back off and it's gonna fail. If someone can say, okay, it's entrepreneurship then we don't begrudge a person making a dollar for helping a community or fostering a community...
+
+Joy: Right...
+
+AJ: But I agree it's difficult to decide what he actually believes. And I think that's very important when you're arguing the type of topics and points you're arguing in this book. If you don't actually believe this stuff, if you're actually all for making a buck it doesn't help your argument and there's a conflict.
+
+Joy: The third point he wanted to make was we're dubbing a generation as criminals. You know pirates. You know what they do so naturally - remixing - is being dubbed as a criminal activity.
+
+AJ: One of his headlines is on page [one hundred and nine], “The law's current attitude is both destructive and self defeating to values far more important than the profits of the culture industries.” He says, “We can't make our kids passive in the way we were toward the culture around us. We can only make them pirates. So does this criminalization make sense?”
+
+You know I feel like he's kinda missing an opportunity to recognize what kind of reform actually needs to take place. Is it a deeper social issue? Many people have brought up the fact over and over again that kids and culture have taught them they're a snowflake and they're...
+
+Joy: Unique.
+
+AJ: Unique and important no matter what. And this has created an overwhelming sense of entitlement. That maybe a very important part to this kind of reform. There may have to be some social reform. Because think about it societies not buying into this - and when I say “this” I don't mean [the book] Remix - societies that are not overly Westernized are really not having that kinda of a problem. Why is that? That's something that might feed into this. It might be a factor in a way that isn't being considered quiet yet.
+
+Joy: I'm just gonna sum up my comments as I was really excited to read this book because I like the fact that he is addressing this idea of art and communication and how does technology play into that. And he's aiming toward general public. This is a topic that's been discussed a lot in the ivory tower. I don't think it's been discussed enough in the general public and they definitely need input because it affects them directly! In so many different ways!
+
+And so I think this book is a good first step towards that. The first part of it really would make any sort of reader, appreciate what they do as artists even though they're amateur artists. And I'm an amateur artist too and it made me feel like I was a part of something I was connected to something and it made me proud of the work that I do - not that I wasn't already.
+
+I think discussing the hybrid economy, I think that's just an ongoing discussion. Good stab at it, good beginnings, and great ideas - obviously it sparked a lot of ideas between you and I and maybe that might have been part of the reason he did that. I think that's a positive - to generate conversation about this topic and kinda help flesh it out a little more.
+
+The one thing that really makes me excited about this book and this whole idea about remix is a idea of the evolution of human communication. Watching the way in which we talk to each other, record memory, record history, record culture, express it, talk about it, share it...that's exciting. And what makes me sad is the thought that there will be a whole group of people that will not be to participate in there and have their voices heard.
+
+It kinda behooves us to think about A) In the ways in which we are communicating are we representing everybody on this planet? And B) Are we losing human touch? Are we also losing some of our own humanity in the ways in which we do it?
+
+AJ: One of the most important things I learned about criticism I actually learned from a Pixar movie. There's the summary at the end where Anton Ego, the food critic, says, “Basically the criticism designating something as junk has less value than the actual thing somebody has put their effort and heart and soul into creating.” Basically meaning the criticism is kinda worthless. “It exists, it's fun to write,” he says, “but in the end it has less value than the actual object”...that they've kinda slagged off on...can I say slagged?
+
+Joy: Yes, go head.
+
+AJ: So in that light I'd like to say I think this book had a lot of potential. And since I started understanding what Creative Commons was, Lawrence Lessig has always been kinda of in some ways a hero. I thought, oh my gosh! Here is somebody who is putting a practical, human spin on copyright and actually bulldozing ahead and saying, “Here. Here's a change, here's something.” And spending the time and doing this for the benefit of everyone else. Any criticism I've come to might have come out of some disappointment with ideas I had hoped would be addressed, either in the book or when we had the interview.
+
+To sum up my comments it's kinda difficult it's all over the place. Again I had hoped for more human content. I hoped for a more human point of view not that everyone looks at these things from an economic standpoint.
+
+When I sit down and play guitar I'm not looking at it from an economy. It's not an economy. It's not a me-economy or a thee-economy. It's not for anyone else. It's something for my soul. And it's something that brings me joy. And joy is something you cannot put into an economy. And I think that's an important distinction that should have been made. That there are things that do not fit this mold in life.
+
+Hopefully it will make other people think and be like, yeah... there's people that can't access this stuff...
+what are we gonna do about it?
+
+AJ: Next up Jennifer Kelley brings us her review of NPR's Tech[nology] Podcast
+
+Jennifer: Hi, this is Jennifer Kelley. This week I'll be reviewing the NPR: Technology Podcast.
+
+NPR: Technology Podcast is a “clip show”-- a “best of” compilation of technology stories from Morning Edition, All Things Considered and other NPR productions. There is no podcast host, no over-arching framework, no unifying theme beyond the familiar voices of NPR's anchors and reporters. What the Technology Podcast does deliver, though, is entertaining and often illuminating stories about digital culture and the business of technology.
+
+The technology stories covered by NPR may not be cutting edge, but the discussion of how new technologies touch on the larger world can be refreshing for those of us who sometimes look at technology as an end to itself. NPR puts the Kindle in context, by taking it to the pool; or brings California's cellphone ban to life by speaking to those effected.
+
+Listeners may wonder why a story about an ultimate Frisbee game between Google and Apple technically counts as technology, but this insight into tech-corporate culture plays nicely against what we may or may not already know about these companies' gadgets, applications and software.
+
+The familiar voices of NPR commentators also go a long way toward giving these news snippets their listenability. Even the most Facebook-savvy Weekend Edition fans will enjoy hearing Scott Simon agonize over netiquette 2.0-- Pirate or Ninja? To Scrabulous or not to Scrabulous? Those are the questions from NPR's Technology Podcast.
+
+Each twenty to thirty minute podcast is made up of a hodge-podge of stories from the past week's news. Listeners looking for more information on the topics covered can visit the podcast's website. Here, they can find the title and summary of each story covered, the date it originally aired and links to related NPR stories.
+
+While regular listeners of Morning Edition, Weekend Edition and All Things Considered won't find anything new here, public radio fans who want to cut to the technology chase will feel at home with the NPR's Technology Podcast.
+
+For First Monday, this is Jennifer Kelley.
+
+AJ: As we mentioned before, we encourage our listeners to respond to the discussion we've started here. Drop us an email - or better yet! - send us an audio response, up to two minutes in length. Email your audio files toa comments [at] firstmondaypodcast [dot] org. For a detailed description of acceptable file sizes, formats and lengths visit our website at www [dot] firstmondaypodcast [dot] org.
+
+Also, in the spirit of Remix, we've decided to record a different version of our podcast theme for this episode and offer the loops and stems for remixing by our listeners! We'd like to encourage everyone to check out the ccMixter site, and upload any remixes they create using these stems and loops and hopefully we'll feature your remix in a future episode!
+
+Finally, there's also more great discussion with Lawrence Lessig talking about Obama's position on information policy and reflections on the evolving state of creative commons publishing within current publishing norms.
+
+AJ: We'd like to thanks Lawrence Lessig for scheduling us into his hectic international schedule and Elaine Adolfo for making the arrangements.
+
+Joy: Be sure to join us as we continue the Openness 2.0 series with Episode 2, Openness in Developing Nations.
+
+AJ: Comments suggestion and responses email us at comments [at] firstmondaypodcast [dot] org. I'm AJ Hannah
+
+Joy: And I'm Joy Austria thanks for listening and see you next month! 
